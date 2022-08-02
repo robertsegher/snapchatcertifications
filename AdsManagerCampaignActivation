@@ -1,0 +1,50 @@
+ Where does the Estimated Test Power tool first appear in the split test setup workflow?   Build Your Ads
+ The split test winner will have the lowest cost per action, defined by what?   Bid Goal 
+ What is the primary factor that impacts an ad’s organic value in the auction?   Targeted Audience size
+ To launch a new campaign with the winning ad set, you need to adjust the flighting and what else before you click Publish Campaign?  Audience size
+  Which split test variable would you choose to test 2-5 variations of a promotional offer? Creative
+  Where in Ads Manager do you set up a Snap Pixel for an ad account? Event manager
+   To verify and troubleshoot Pixel Implementations, what Chrome extension should you download and use? Snap pixel Helper
+   Which factor converts the advertiser bid to an effective CPM so that ad sets bidding on different goals can compete in the same auction? Clearing price
+   Which audience type lets you define targeting segments based on lacation, demographics, devices, interests, and inclusion or exclusion to custom audiences you’ve created?Predefined Audience
+  Which attachment lets you re-engage app users= (If the app isn’t installed on a user’s device, they’re redirected to the app’s page in the app store.) Deep Link
+   You can further segment a Custom Audience in Audience Insights by age, location, device, and what else? Ad Engagement
+  Which of these features allows you to pass web, app, and offline events to measure performance and incrementality? Conversion API
+  Where must you go in Ads Manager to generate a Custom Audience? Adience insight
+ A complete ad format comprises an ad type and an optional what? Attachment 
+   If your ad set has an attachment, where do you select the CTA copy? Build Your Campaign
+  1,000 user To protect user privacy with the Audience Insights tool, what is the minimum audience size required to show insights?
+   Predicted Event Rate Which factor DOES NOT impact an ad’s final bid in the auction?
+   Ad Type  Which selection determines how your ad will look and where Snapchatters will see it (i.e., the placement)?
+    View Insights Which button do you click next to the winning ad set to view more details?
+    Catalog sales Which objective activates Dynamic Ad creation?
+   Advanced Create From where in Ads Manager do you  lauch the winning ad set from a split test?
+   Winner’s Organic Value Snapchat’s second-price auction model means the winner pays a clearing price equal to the runner up’s final bid plus one cent minus what?
+  Which of the four types of Predefined Audiences is built from Snap first-party data, consisting of over 100 interest categories? Lifestyles
+  Which bid goal DOES NOT require a predicted event rate to be converted into an effective CPM bid? Swipe Up
+  Which type of Custom Audience DOES NOT update dynamically Snap Audience Match
+ Which bid type is ideal for app advertisers who want to optimize for purchase value and drive profitable acquisition over efficient acquisition?  Minimum ROAS
+Which bid type is ideal for advertisers who DO NOT want to bid over their set bid amount?  Target Cost
+ Which split test variable would you choose to see which bidding strategy shows the best performance? Creative
+ Which type of audience would you generate by manually uploading a list of existing customers?  Snap Audience Match
+Which bid type can you select to view the current suggested bid range, giving you a reference point for a competitive bid amount?  Max Bid
+Which audience type is built from high-intent individuals who have engaged directly with your website in the past?  Pixel Audience
+  What must you set up to unlock app-centric campaign features, targeting, and measurement capabilities? Snap Pixel
+ Which type of Predefined Audience is available worldwide? Lifestyles
+ Which type of audience in Ads Manager provides an anonymous, aggregate group of Snapchatters who have previously engaged with your brand or business?  Custom Audience
+  What controls how your campaign delivers over the course of a day to ensure you’re spending efficiently?  Pacing
+ Where can you view insights for your Custom Audiences? Audience Insights 
+Which tool can you use to check the most current addressable reach estimates for any country and demographic?  Audience insight
+ Which ad type allows you edit the placement?  snap ads
+  Which bid type should be used for lower-funnel objectives in which you don’t mind winning some pricier auctions but you’re still trying to achieve a target CPA? Auto Bid
+ You can generate the Snap App ID directly in Ads Manager or by registering your app for what?  Snap Kit
+40 ????? Question 40 is not there
+ Which type of Lookalike Audience bears the closest resemblance to the seed audience?  Similarity
+ You can either install Snap Pixel directly into your website’s codebase or through what? Snap pixel Helper
+ How many variables can you test in a single split test?  ONE
+ Which factor denotes the probability of finding the same winner if you were to run the same test again?  Confidence Score
+To track purchase events for accurate ROAS reporting, you need to add the Purchase event to Snap Pixel, plus three event parameters: currency, price, and what else?  User Email
+ Re-engagement bid goals are only available when you enable what on your ad set? Snap App ID
+ What should you avoid when using ad set lifetime budgets because it may cause unexpected delivery patterns? Ad Set Daily Budget
+ After completing the Snap App ID setup, Snap unlocks new features for app advertisers, Which of the following is NOT one of those features? Re-engagement Bid Goals
+  What identifier does Snap use to deduplicate conversion events? Pixel ID
